@@ -8,7 +8,9 @@ public class User {
         // Logic to verify credentials
         return true;
     }
-
+   public void logout() {
+        // Logic to end session
+    }
    
 }
  
