@@ -32,7 +32,7 @@ The project uses **Java** for the structural logic and **UML** (Unified Modeling
 **Description:** 
 The Use Case diagram below shows the four main actors: **Student, Manager, Technician, and Admin**. It highlights how they interact with the system, such as a Student reporting an issue or a Technician updating asset status.
 
-![Use Case View](docs/use_case.png)
+![Use Case View](usecase.jpg)
 
 ---
 
