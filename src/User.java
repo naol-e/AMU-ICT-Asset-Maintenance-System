@@ -4,7 +4,14 @@ public class User {
     protected String email;
     protected String password;
 
+     public boolean login(String email, String password) {
+        // Logic to verify credentials
+        return true;
+    }
+
    
 }
+ 
+ 
 
   
