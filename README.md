@@ -48,7 +48,7 @@ This structural diagram defines the blueprint of our system. It shows the `User`
 **Description:**
 This diagram visualizes the flow of logic when a user reports a broken item. It traces the steps from the UI (User Interface) to the Database and back to confirm the action.
 
-![Sequence View](docs/sequence_diagram.png)
+![Sequence View](docs/sequence_diagram.jpg)
 
 ---
 
