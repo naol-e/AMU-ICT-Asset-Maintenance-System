@@ -32,7 +32,7 @@ The project uses **Java** for the structural logic and **UML** (Unified Modeling
 **Description:** 
 The Use Case diagram below shows the four main actors: **Student, Manager, Technician, and Admin**. It highlights how they interact with the system, such as a Student reporting an issue or a Technician updating asset status.
 
-![Use Case View](usecase.jpg)
+![Use Case View](docs/usecase.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ The Use Case diagram below shows the four main actors: **Student, Manager, Techn
 **Description:**
 This structural diagram defines the blueprint of our system. It shows the `User` superclass and how `LabTechnician` and `ICTManager` inherit from it. It also details the relationship between `Labs` and `Assets`.
 
-![Class Diagram View](docs/class_diagram.png)
+![Class Diagram View](docs/class_diagram.jpg)
 
 ---
 
