@@ -34,7 +34,7 @@ The Use Case diagram below shows the four main actors: **Student, Manager, Techn
 
 ![Use Case View](docs/usecase.jpg)
 
----
+----
 
 ### 2. 🏗️ Class Diagram
 **Description:**
