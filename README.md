@@ -50,7 +50,7 @@ This diagram visualizes the flow of logic when a user reports a broken item. It 
 
 ![Sequence View](docs/sequence_diagram.jpg)
 
-----
+---
 
 ### 4. ⚡ Activity Diagram
 **Description:**
