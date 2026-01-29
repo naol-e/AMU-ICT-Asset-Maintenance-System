@@ -12,4 +12,5 @@ public class LabTechnician extends User {
     public void performMaintenance(String taskID) {
         // Logic to log maintenance work
     }
+
 }
