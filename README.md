@@ -42,7 +42,7 @@ This structural diagram defines the blueprint of our system. It shows the `User`
 
 ![Class Diagram View](docs/class_diagram.jpg)
 
----
+----
 
 ### 3. ⏱️ Sequence Diagram
 **Description:**
